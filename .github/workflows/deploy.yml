@@ -30,7 +30,7 @@ jobs:
           username: ${{ secrets.EMAIL_USER }}
           password: ${{ secrets.EMAIL_PASS }}
           subject: ✅ Deployment Successful!
-          to: aya.jafar002@email.com
+          to: aya.jafar002@gmail.com
           from: GitHub Actions Bot
           body: |
             Hey there!
